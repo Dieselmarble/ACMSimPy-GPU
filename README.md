@@ -1,2 +1,2 @@
-# ACMSimPy-GPU
-A CUDA implementation of the ACMSimPy motor control simulator
+# ACMSimPy
+AC Machine Simulation in Python (Accelerated with Numba)
